@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shuaib</h1>
+<p align="center"><b>Network Engineer | Home Lab Builder | Infrastructure Troubleshooter</b></p>
 
-<!--
-**faraz176/faraz176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build hands-on networking labs, document troubleshooting workflows, and create tools for visualizing and understanding infrastructure.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Focused on network engineering, security, and infrastructure operations
+- Building real lab workflows around routing, switching, firewalls
+- Documenting troubleshooting and recovery processes in a portfolio-friendly way
+- Interested in automation, operational tooling, and network visualization
+
+## Core Areas
+
+- Routing and Switching
+- SSH / Device Management
+- Network Troubleshooting
+- Firewalls and Edge Design
+- Automation with Python and PowerShell
+- Lab Documentation
+
+## Featured Projects
+
+- [SSH Configuration](https://github.com/faraz176/REPLACE-THIS-REPO)
+- [Topology Drawer](https://github.com/faraz176/fast-topo-drawer)
+
+## Stack
+
+**Networking:** Cisco, VLANs, SVIs, Static Routing, SSH, Switching, Routing, Firewalls  
+**Scripting:** Python, PowerShell  
+
+## Mission
+
+Document the labs I build to reflect on how to improve workflow and understanding.
