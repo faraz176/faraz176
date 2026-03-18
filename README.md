@@ -25,6 +25,7 @@
 
 ## Featured Projects
 
+- [Network Foundation Through Arp](https://github.com/faraz176/Arp-Lab)
 - [SSH Lab](https://github.com/faraz176/SSH-Lab)
 - [Topology Drawer](https://github.com/faraz176/topo-engine)
 
