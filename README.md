@@ -29,6 +29,7 @@
 - [SSH Lab](https://github.com/faraz176/SSH-Lab)
 - [Topology Drawer](https://github.com/faraz176/topo-engine)
 - [STP Lab](https://github.com/faraz176/STP-Lab)
+- [GRE Lab](https://github.com/faraz176/Configuring-GRE)
 
 ## Stack
 
